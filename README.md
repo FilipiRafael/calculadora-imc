@@ -1,7 +1,7 @@
 
 # Calculadora de IMC (IOS Design)
 <div style="display: inline-block">
-    <img src="assets/img/screenshot.png" alt="Aplicação">
+    <img src="assets/img/webapp.png" alt="Aplicação">
 </div>
 
 ## Sobre o Projeto
