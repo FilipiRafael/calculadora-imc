@@ -10,11 +10,20 @@
     </head>
     <body>
         <script src="assets/js/index.js"></script>
-        <h1>Calculador de IMC!</h1>
-        <h2>Altura</h2>
-        <h2>Peso</h2>
-        <input type="number">
-        <input type="number">
-        <button>Calcular</button>
+        <div class="area">
+            <div class="container">
+                <h1>Calculador de IMC</h1>
+                <div class="input_area">
+                    <h2>Altura (cm)</h2>
+                    <input type="number" id="height">
+                </div>
+                <div class="input_area">
+                <h2>Peso (kg)</h2>
+                <input type="number" id="weight">
+                </div>
+                <button onclick="calculate()">Calcular</button>
+                <textarea name="text_return" id="text_return" rows="8"></textarea>
+            </div>
+        </div>
     </body>
 </html>

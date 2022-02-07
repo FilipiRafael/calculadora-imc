@@ -1,7 +1,7 @@
 
-# Calculadora de IMC
+# Calculadora de IMC (IOS Design)
 <div style="display: inline-block">
-    <img src="#" alt="Aplicação">
+    <img src="assets/img/screenshot.png" alt="Aplicação">
 </div>
 
 ## Sobre o Projeto
@@ -11,6 +11,3 @@ A ideia do projeto foi para aplicar, práticar e melhorar minhas habilidades té
 
 ## Novas versões
 Conforme vou adquirindo novas habilidades, irei atualizando o projeto em novas versões. 
-
-## Versão Mobile
-Ainda preciso atualizar o website para se tornar responsivo. 
